@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.fe927caf.css",
+    "main.js": "/my-portfolio/static/js/main.8433444f.js",
+    "static/js/787.4b24f717.chunk.js": "/my-portfolio/static/js/787.4b24f717.chunk.js",
+    "static/media/mahimachhagani.jpg": "/my-portfolio/static/media/mahimachhagani.fad1ae0a96724c57eb52.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.fe927caf.css.map": "/my-portfolio/static/css/main.fe927caf.css.map",
+    "main.8433444f.js.map": "/my-portfolio/static/js/main.8433444f.js.map",
+    "787.4b24f717.chunk.js.map": "/my-portfolio/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.8433444f.js"
+  ]
+}
